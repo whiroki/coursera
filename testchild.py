@@ -1,0 +1,1 @@
+print("A child file")
